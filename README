@@ -1,38 +1,21 @@
-Date/Holiday/PT version 0.01
-============================
+PT.pm version 0.02
+==================
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
+=head1 NAME
 
-A README file is required for CPAN modules since CPAN extracts the
-README file from a module distribution so that people browsing the
-archive can use it get an idea of the modules uses. It is usually a
-good idea to provide version information here so that people can
-decide whether fixes for the module are worth downloading.
+Date::Holiday::PT - Determine Portuguese public holidays
 
-INSTALLATION
+=head1 IMPORTANT NOTE
 
-To install this module type the following:
+This module has moved to Date::Holidays::PT.
 
-   perl Makefile.PL
-   make
-   make test
-   make install
+=head1 AUTHOR
 
-VERY IMPORTANT
+Jose Alves de Castro, E<lt>cog [at] cpan [dot] org<gt>
 
-This is still only an experimental version. It currently works fine *only* with
-the holidays for 2004!! Don't use it for anything important yet.
+=head1 COPYRIGHT AND LICENSE
 
-DEPENDENCIES
-
-No dependencies.
-
-COPYRIGHT AND LICENCE
-
-Copyright (C) 2004 Jose Alves de Castro
+Copyright 2004 by Jose Alves de Castro
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself. 

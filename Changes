@@ -1,4 +1,7 @@
-Revision history for Perl extension Date::Holiday::PT.
+Revision history for Date-Holiday-PT
+
+0.02  Fri Dec 31 19:31:00 2004
+	- development moved to Date::Holidays::PT
 
 0.01  Tue May 11 23:13:02 2004
 	- original version; created by h2xs 1.22 with options
